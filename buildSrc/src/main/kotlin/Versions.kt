@@ -9,9 +9,9 @@ object Versions {
         const val minSdk = 21
     }
 
-    const val kotlin = "1.3.50"
+    const val kotlin = "1.3.60-eap-76"
 
-    private const val mokoResources = "0.3.0"
+    private const val mokoResources = "0.4.0-1.3.60-eap-76"
 
     object Plugins {
         const val android = "3.4.1"
@@ -31,8 +31,8 @@ object Versions {
 
         object MultiPlatform {
             const val mokoResources = Versions.mokoResources
-            const val mokoMvvm = "0.2.0"
-            const val mokoFields = "0.1.0"
+            const val mokoMvvm = "0.3.1-1.3.60-eap-76"
+            const val mokoFields = "0.1.0-1.3.60-eap-76"
         }
 
         object Jvm {
