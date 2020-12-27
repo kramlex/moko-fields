@@ -3,17 +3,17 @@
  */
 
 object Deps {
-    private const val kotlinVersion = "1.4.0"
+    private const val kotlinVersion = "1.4.30-M1"
 
     private const val androidAppCompatVersion = "1.1.0"
     private const val materialDesignVersion = "1.0.0"
     private const val androidLifecycleVersion = "2.1.0"
     private const val androidCoreTestingVersion = "2.1.0"
 
-    private const val coroutinesVersion = "1.3.9"
-    private const val mokoResourcesVersion = "0.13.0"
-    private const val mokoMvvmVersion = "0.8.0"
-    const val mokoFieldsVersion = "0.5.0"
+    private const val coroutinesVersion = "1.4.2"
+    private const val mokoResourcesVersion = "0.13.3"
+    private const val mokoMvvmVersion = "0.8.2"
+    const val mokoFieldsVersion = "0.5.1"
 
     object Android {
         const val compileSdk = 28
