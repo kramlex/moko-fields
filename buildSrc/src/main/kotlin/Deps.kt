@@ -3,7 +3,7 @@
  */
 
 object Deps {
-    private const val kotlinTestVersion = "1.4.21"
+    private const val kotlinTestVersion = "1.4.31"
 
     private const val androidAppCompatVersion = "1.1.0"
     private const val materialDesignVersion = "1.0.0"
