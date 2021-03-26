@@ -11,10 +11,10 @@ object Deps {
     private const val androidCoreTestingVersion = "2.1.0"
 
     private const val coroutinesVersion = "1.4.2"
-    private const val mokoResourcesVersion = "0.13.2"
-    private const val mokoMvvmVersion = "0.9.1"
-    private const val mokoTestVersion = "0.1.0"
-    const val mokoFieldsVersion = "0.7.0"
+    private const val mokoResourcesVersion = "0.15.0"
+    private const val mokoMvvmVersion = "0.10.0"
+    private const val mokoTestVersion = "0.2.0"
+    const val mokoFieldsVersion = "0.8.0"
 
     object Android {
         const val compileSdk = 30
